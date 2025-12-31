@@ -171,7 +171,7 @@ VITE_API_URL=https://your-backend.onrender.com
 
 🧑‍💻 Getting Started (Local Setup)
 1️⃣ Clone the repository
-git clone https://github.com/UBISmashers/UBIsmashers.git
+git clone https://github.com/Balamurugan315/UBIsmashers.git
 cd UBIsmashers
 
 2️⃣ Backend Setup
@@ -199,3 +199,4 @@ Admin audit logs
 Bala Murugan
 Full-Stack Developer
 Built with passion, debugging, and persistence 🚀
+
