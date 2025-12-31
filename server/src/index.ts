@@ -72,7 +72,7 @@ const initializeAdmin = async () => {
     const { Member } = await import('./models/Member.js');
     
     const ADMIN_EMAIL = 'ubismashers0@gmail.com';
-    const ADMIN_PASSWORD = 'Mani2495';
+    const ADMIN_PASSWORD = '******';
     
     // Check if admin user exists
     let adminUser = await User.findOne({ email: ADMIN_EMAIL });
